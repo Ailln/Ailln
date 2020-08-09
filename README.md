@@ -11,12 +11,13 @@
   <summary><b>:snake: Python</b></summary>
   <br>
 
-  - 📦 [cn2an](https://github.com/Ailln/cn2an): 快速转化「中文数字」和「阿拉伯数字」。
-  - 📦 [en2an](https://github.com/Ailln/en2an): 快速转化「英文数字」和「阿拉伯数字」。
-  - 😏 [two](https://github.com/Ailln/two): 随机一句「中二」的台词！
-  - 🐢 [suo](https://github.com/Ailln/suo): 一个「中英文缩写转化」的工具包。
-  - 📻 [mulan](https://github.com/Ailln/mulan): 人类的本质之木兰诗「复读机」～
-  - 🔨 [torbjorn](https://github.com/Ailln/torbjorn): 提供一些实用的 Python 装饰器～
+- 📦 [cn2an](https://github.com/Ailln/cn2an): 快速转化「中文数字」和「阿拉伯数字」。
+- 📦 [en2an](https://github.com/Ailln/en2an): 快速转化「英文数字」和「阿拉伯数字」。
+- 😏 [two](https://github.com/Ailln/two): 随机一句「中二」的台词！
+- ✨ [ashe](https://github.com/Ailln/ashe): 一个 Python 语言的超级扩展。
+- 🐢 [suo](https://github.com/Ailln/suo): 一个「中英文缩写转化」的工具包。
+- 📻 [mulan](https://github.com/Ailln/mulan): 人类的本质之木兰诗「复读机」～
+- 🔨 [torbjorn](https://github.com/Ailln/torbjorn): 提供一些实用的 Python 装饰器～
 
 </details>
 <details>
