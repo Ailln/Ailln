@@ -25,6 +25,7 @@
 - 🐢 [suo](https://github.com/Ailln/suo): 一个「中英文缩写转化」的工具包。
 - 📻 [mulan](https://github.com/Ailln/mulan): 人类的本质之木兰诗「复读机」～
 - 🔨 [torbjorn](https://github.com/Ailln/torbjorn): 提供一些实用的 Python 装饰器～
+- ✂️ [simjb](https://github.com/Ailln/simple-jieba): 用 100 行实现简单版本的 jieba 分词。
 - 🏆 [award](https://github.com/Ailln/award): 一个用来表示「数据」和「链接」的图标生成器。
 
 </details>
