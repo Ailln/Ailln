@@ -29,11 +29,20 @@
 - 🏆 [award](https://github.com/Ailln/award): 一个用来表示「数据」和「链接」的图标生成器。
 
 </details>
+
 <details>
   <summary><b>:rocket: Julia</b></summary>
   <br>
 
 - 👋 [Hey Julia](https://github.com/Ailln/hey-julia): Julia 语言入门。
 - 📦 [Cn2An.jl](https://github.com/Ailln/Cn2An.jl): Convert Chinese Numerals To Arabic Numerals With Julia Language.
+
+</details>
+
+<details>
+  <summary><b>:bird: Swift</b></summary>
+  <br>
+
+- 🏮 [SwiftUI Login Page with LeanCloud](https://github.com/Ailln/swiftui-login-page-with-leancloud): 一份使用 LeanCloud 服务实现的、具有「登录注册功能」的 SwiftUI 代码。
 
 </details>
