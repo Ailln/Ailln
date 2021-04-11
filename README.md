@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    :wave: Hey! I am a freelancer.
+    :wave: Hey! I am an algorithm engineer.
     <br>My current work focuses on <em>Natural Language Processing</em> :sparkles:<br><br>
     <img src="https://media.giphy.com/media/11e56tPCqD9kjK/giphy.gif" width="240px">
     <br><br>:tea: Wanna chat? :point_right: Talk me on <a href="https://www.zhihu.com/people/HaveTwoBrush">Zhihu</a>
@@ -27,6 +27,7 @@
 - 🔨 [torbjorn](https://github.com/Ailln/torbjorn): 提供一些实用的 Python 装饰器～
 - ✂️ [simjb](https://github.com/Ailln/simple-jieba): 用 100 行实现简单版本的 jieba 分词。
 - 🏆 [award](https://github.com/Ailln/award): 一个用来表示「数据」和「链接」的图标生成器。
+- 🧪 [roseta](https://github.com/Ailln/roseta): 从非结构化数据到结构化数据！
 
 </details>
 
